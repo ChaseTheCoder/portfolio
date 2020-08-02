@@ -67,7 +67,11 @@ nav {
 
 .div-a {
     display: table;
-    margin: 0 80px  0 80px;
+    margin: 0 80px  40px 80px;
+}
+
+.div-b {
+    margin: 0 80px  80px 80px;
 }
 
 
@@ -82,7 +86,7 @@ nav {
 .profile-pic {
     float: left;
     width: 25%;
-    height: 280px;
+    height: 250px;
     width: 340px;
 }
 
@@ -90,6 +94,13 @@ nav {
     float: left;
     width: 70%;
     padding: 0 0 20px 30px;
+    font-size: 20px;
+}
+
+.bio-b {
+    float: left;
+    width: 100%;
+    padding: 0 0 80px 0;
     font-size: 20px;
 }
 
