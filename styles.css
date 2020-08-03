@@ -32,7 +32,10 @@ nav {
 .nav-item {
     font-size: 1.1em;
     padding: 15px;
-    /* margin: 0.1; */
+}
+
+#about #portfolio {
+    margin: 80px 0 0 0;
 }
 
 .link {
@@ -48,12 +51,6 @@ nav {
 #name {
     color: white;
 }
-
-/* #chase {
-    opacity: 1;
-    font-size: 1.3em;
-    font-weight: bold;
-} */
 
 .hero {
     width: 100vw;
